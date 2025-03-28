@@ -1,0 +1,6 @@
+*.xlsx linguist-language=Excel
+*.xls linguist-language=Excel
+*.csv linguist-language=Excel
+git add .gitattributes
+git commit -m "Set Excel as the language for the repo"
+git push origin main
